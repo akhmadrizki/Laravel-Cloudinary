@@ -2,6 +2,12 @@
 Make Uploading Images in Laravel using Cloudinary
 
 ## If You Want to Start
+
+The First you Must have to a Cloudinary Account.
+https://cloudinary.com/
+
+If you Already Have an Account, Follow These Steps:
+
 1. Copy the .env.example File to .env
 2. Install all packages to run
 
