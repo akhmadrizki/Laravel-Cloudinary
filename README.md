@@ -23,6 +23,7 @@ DB_PASSWORD=your_password
 
 ```sh
 $ php artisan key:generate
+$ php artisan migrate
 $ composer dump-autoload
 $ php artisan storage:link
 ```
